@@ -1,0 +1,136 @@
+ @import url('https://fonts.googleapis.com/css2?family=Cairo&family=Cormorant+Garamond:wght@300&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Cairo&family=Cormorant+Garamond:wght@300&family=EB+Garamond:wght@500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("https://st4.depositphotos.com/3271841/25487/i/450/depositphotos_254878940-stock-photo-black-wall-texture-background-dark.jpg");
+}
+
+#text{
+  font-family: 'Cormorant Garamond', serif;
+  color: white !important;
+}
+
+/*/*#Nav-BG{*/
+/*  background-image: linear-gradient(#866E08, #6B7C21) !important;*/
+/*  background-color: #4C4637 !important;*/
+
+#Nav-BG{
+  background-image: linear-gradient(to right bottom, #000000, #050505, #0b0b0b, #0f0f0f, #131313);
+}
+
+#collasible-nav-dropdown{
+  font-family: 'EB Garamond', serif;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  color: #F3EED9 !important;
+}
+
+#reg-BG{
+/*  background-image: linear-gradient(#A35709, #B1886A) !important;*/
+/*background-image: linear-gradient(to right bottom, #541212, #481313, #3b1313, #2e1312, #221211, #1e1010, #190e0f, #130c0d, #160b0d, #180a0c, #1b080c, #1d070b);*/
+background-image: linear-gradient(to right bottom, #000000, #131313, #1f1f1f, #2b2b2b, #373737, #3d3d3d, #424444, #494a49, #494a4a, #4a4b4b, #4a4b4b, #4b4b4b);
+}
+
+#image-car img {
+  width: 100%;
+  height: 650px;
+  object-fit: cover;
+}
+
+#car-colr h2 {
+  font-family: 'EB Garamond', serif;
+}
+
+#car-colr p{
+  font-family: 'EB Garamond', serif;
+}
+
+
+.carousel-caption {
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #F3EED9 !important;
+  padding: 10px;
+}
+
+#ProductCarousel-BG{
+
+}
+
+/*#car-colr {
+  background-color: linear-gradient(rgba(15, 14, 14, 0.8), rgba(84, 18, 18, 0.8)) !important;
+}*/
+
+.colr-bg{
+  background-image: linear-gradient(to right bottom, #000000, #131313, #1f1f1f, #2b2b2b, #373737, #3d3d3d, #424444, #494a49, #494a4a, #4a4b4b, #4a4b4b, #4b4b4b);
+  font-family: 'EB Garamond', serif;
+  color: white;
+}
+
+.banner-bg {
+    font-family: 'EB Garamond', serif;
+}
+
+#landing {
+  background:
+
+    linear-gradient(
+
+      rgba(0, 0, 0, 0.4),
+      rgba(73, 73, 73, 0.6)
+
+    ),
+    url("./images/landing1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+  ;
+}
+
+#landing-text{
+  background-color: rgba(0, 0, 0, 0.5);
+  font-family: 'EB Garamond', serif;
+  color: white;
+  padding: 10px;
+}
+
+.cardHighlight{
+  min-height: 100%;
+  background-image: linear-gradient(to right bottom, #000000, #050505, #0b0b0b, #0f0f0f, #131313);  font-family: 'EB Garamond', serif;
+  color: white;
+}
+
+.card-height{
+  min-height: 100%;
+  background-image: linear-gradient(to right bottom, #000000, #050505, #0b0b0b, #0f0f0f, #131313);  font-family: 'EB Garamond', serif;
+  color: white;
+}
+
+#BP-IMG{
+ height: 300px;
+ object-fit: cover;
+}
+
+.car-ht {
+  max-height: 75vh;
+  object-fit: cover;
+}
+
+#PRODUCT-TXT{
+  font-family: 'EB Garamond', serif;
+  color: white;
+}
+
+#PRODUCT-BTN{
+  font-family: 'EB Garamond', serif;
+  color: white;
+}
