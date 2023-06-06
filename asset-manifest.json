@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Capstone3/static/css/main.7e83dfc3.css",
+    "main.js": "/Capstone3/static/js/main.b4d96f2e.js",
+    "static/media/landing1.jpg": "/Capstone3/static/media/landing1.3dd776d1db0c20303bd2.jpg",
+    "static/media/FoodHub.png": "/Capstone3/static/media/FoodHub.09ffd32a8ad772dd4e11.png",
+    "index.html": "/Capstone3/index.html",
+    "main.7e83dfc3.css.map": "/Capstone3/static/css/main.7e83dfc3.css.map",
+    "main.b4d96f2e.js.map": "/Capstone3/static/js/main.b4d96f2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e83dfc3.css",
+    "static/js/main.b4d96f2e.js"
+  ]
+}
